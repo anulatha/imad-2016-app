@@ -12,11 +12,11 @@ app.get('/Article-one', function (req,res){
     res.send('Article one is served here for you');
     
 });
-app.get('/Article two', function (req,res){
+app.get('/Article-two', function (req,res){
     res.send('Article two is served here for you');
     
 });
-app.get('/Article Three', function (req,res){
+app.get('/Article-Three', function (req,res){
     res.send('Article three is served here for you');
     
 });
